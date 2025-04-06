@@ -1,5 +1,5 @@
 window.onload = function() {
     setTimeout(function() {
-        alert("Hello Kasie")
+        alert("Hello Chris")
     }, 5000);
 };
